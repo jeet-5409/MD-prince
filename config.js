@@ -30,7 +30,7 @@ global.botnma = 'MD-prince' //bot name
 global.ownernma = 'prince ser' //owner name
 global.packname = 'MD-prince' //sticker package name
 global.author = 'By prince' //sticker author name
-global.sessionName = 'session' //session name
+global.sessionName = 'Prince~scl/fi/a235z34sf5p41xedg3ost/iZuYbJwCmp.json?rlkey=ad2rmkrxx6b6p68d7m7v6abdc&dl=0' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
 global.mess = {
